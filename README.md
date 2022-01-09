@@ -2,6 +2,4 @@
 
 This is a new change in Website
 
-Update on update-readme branch
-
-Updated locally
+Update on main on GitHub before rebase
