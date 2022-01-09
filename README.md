@@ -2,6 +2,6 @@
 
 This is a new change in Website
 
-Edit on example branch
-
 Update on update-readme branch
+
+Updated locally
